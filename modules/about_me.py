@@ -85,7 +85,7 @@ class AboutMeModule(ctk.CTkFrame):
 GitHub  ▸ github.com/TNOTawa
 BiliBili▸ space.bilibili.com/1673962232
 QQ      ▸ 1028235739
-邮箱    ▸ tnot233@outlook.com
+邮箱    ▸ tnot123@outlook.com
         """
         ctk.CTkLabel(self.scrollable_frame, 
                     text=social_text,
