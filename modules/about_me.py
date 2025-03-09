@@ -95,7 +95,7 @@ QQ      ▸ 1028235739
 
         # 版本声明
         ctk.CTkLabel(self.scrollable_frame,
-                    text="© 2025 TNOTawa | All Rights Reserved",
+                    text="© 2025 TNOTawa | MIT License | see the 'LICENSE' file for details",
                     font=ctk.CTkFont(size=10),
                     text_color="#4C566A").pack(side="bottom", pady=15)
         # ================= 新增版本信息区域 =================

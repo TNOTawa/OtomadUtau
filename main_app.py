@@ -6,7 +6,7 @@ import os
 class OtomadUtau(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("OtomadUtau - 为UTAU式人力制作而生的工具箱w")
+        self.title("OtomadUtau - 为UTAU式人力制作而生的工具箱")
         self.geometry("800x600")
         self.minsize(800, 600)
         
@@ -34,7 +34,7 @@ class OtomadUtau(ctk.CTk):
             return 96
         
     def show_frame(self, page_name):
-        """显示指定页面"""
+        """显示指定页面（添加模块在这里）"""
         if page_name not in self.frames:
             # 动态导入页面模块
             if page_name == "OTOGenerator":

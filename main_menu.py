@@ -7,9 +7,9 @@ class MainMenu(ctk.CTkFrame):
         self.controller = controller
         self.configure(fg_color="transparent")
         
-        # 功能模块配置
+        # 功能模块配置（在界面中添加模块在这里）
         self.modules = [
-            {"name": "OTO 工厂", "icon": "🎵", "color": "#2E7D32", "page": "OTOGenerator"},
+            {"name": "AU标记转OTO", "icon": "🎵", "color": "#2E7D32", "page": "OTOGenerator"},
             {"name": "关于", "icon": "❓", "color": "#1565C0", "page": "AboutMeModule"},
         ]
         
