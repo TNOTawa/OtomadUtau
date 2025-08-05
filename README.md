@@ -1,4 +1,7 @@
 # OtomadUtau
+
+[![IIIA-3](https://img.shields.io/badge/IIIA-3-A865B3)](https://github.com/ErSanSan233/IIIA)
+
 正处于早期开发阶段，README临时用AI编写的代替
 单休狗没有那么多时间，抱歉打扰大家了！
 软件大多数内容也由AI编写
